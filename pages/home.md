@@ -7,6 +7,6 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Välkommen
+# Välkommen!
 
 Det här är Helena och Mickes husbilsblogg.
