@@ -5,7 +5,7 @@ author: John Doe
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
   - environment
-  - politics
+  - slask
 ---
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
